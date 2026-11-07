@@ -1,0 +1,9 @@
+# Official Alpaca Python SDK (paper crypto trading)
+alpaca-py>=0.40.0,<1.0.0
+
+# HTTP + env
+requests>=2.31.0,<3.0.0
+python-dotenv>=1.0.0,<2.0.0
+
+# Numeric helpers for indicators
+numpy>=1.26.0,<3.0.0
